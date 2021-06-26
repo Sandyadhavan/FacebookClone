@@ -150,6 +150,10 @@ aside{
 		
 }
 
+.loginbox:hover{
+	cursor: pointer;
+}
+
 .Forgotten_password_padding{
 	padding-bottom: 20px;
 }
@@ -157,7 +161,9 @@ aside{
 	display: flex;
 	justify-content: center;
 	color: #1877f2;
-
+}
+.Forgotten_password:hover{
+	cursor: pointer;
 }
 
 .create_new_account_padding{
@@ -177,6 +183,9 @@ aside{
 	font-weight: 700;
 }	
 
+.create_new_account:hover{
+	cursor: pointer;
+}
 
 
 .create_a_page_padding{
